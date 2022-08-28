@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "4abc98aba7c495c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9516ae06a20cd6a5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Pesquisa binária.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dce032207d5448a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bcd9dfce67c79f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de431f299886bae0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e46207137dd0b9e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "62e3efb3858ecfba",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "559a62667434aa71",
+    "type": "split",
+    "children": [
+      {
+        "id": "d530edcdd51b4ba9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b64f8eae8408c169",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pesquisa binária.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b3895b37124dfbb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pesquisa binária.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "68138a3b49c2f75c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "09b349ef3d9d2621",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pesquisa binária.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9516ae06a20cd6a5",
+  "lastOpenFiles": [
+    "princípios da programação.md",
+    "Programação.md",
+    "Algorítimos/Wave Function Collapse.md",
+    "C.md",
+    "Pesquisa binária.md",
+    "Algoritimos.md",
+    "Design Patterns.md",
+    "Calcudo de tempo de um algorítimo.md"
+  ]
+}
