@@ -1,4 +1,12 @@
 {
   "promptDelete": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "livePreview": false,
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "lineWrap": true,
+  "rightToLeft": false,
+  "spellcheck": false,
+  "legacyEditor": false,
+  "vimMode": false
 }

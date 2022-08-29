@@ -21,4 +21,4 @@
 [[princípios da programação]]
 [[LINQ]]
 
-#Estudos/programação/CSharp
+#Linguagem
