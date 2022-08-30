@@ -13,7 +13,7 @@ EXTRA: "Rafa, na tag <HTML lang= "en"> coloca "pt-br", isso faz com que o navega
 **Algoritimos**
 
 [[Pesquisa binária]]
-[[Arvore binária]]
+[[Arvore Binária]]
 [[Wave Function Collapse]]
 
 

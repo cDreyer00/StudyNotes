@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritimos/Arvore binária.md",
-            "mode": "source",
+            "file": "LeetCode.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritimos/Arvore binária.md",
+                "file": "LeetCode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algoritimos/Arvore binária.md",
+                "file": "LeetCode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algoritimos/Arvore binária.md"
+                "file": "LeetCode.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "de431f299886bae0",
+  "active": "9516ae06a20cd6a5",
   "lastOpenFiles": [
+    "Algoritimos/Arvore Binária.md",
     "Notação Big O.md",
-    "princípios da programação.md",
-    "Pasted image 20220829084604.png.md",
-    "Imagens/Pasted image 20220829084604.png",
-    "Imagens/Pasted image 20220829083122.jpg",
-    "Imagens/Pasted image 20220828180751.jpg",
-    "Pasted image 20220829083601.jpg",
-    "Pasted image 20220829083557.jpg",
+    "LeetCode.md",
+    "Imagens/Pasted image 20220829122458.jpg",
+    "LINQ.md",
+    "Framework.md",
+    "Design Patterns.md",
+    "Linguagens/CSharp.md",
     "Algoritimos/Pesquisa binária.md",
-    "Design Patterns.md"
+    "Algoritimos/Wave Function Collapse.md"
   ]
 }
