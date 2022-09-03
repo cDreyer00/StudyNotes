@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9516ae06a20cd6a5",
+        "id": "eca58cbc37121504",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LeetCode.md",
+            "file": "CC50 course/Exercícios/Exercícios_Aula-2.md",
             "mode": "preview",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode.md",
+                "file": "CC50 course/Exercícios/Exercícios_Aula-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode.md",
+                "file": "CC50 course/Exercícios/Exercícios_Aula-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode.md"
+                "file": "CC50 course/Exercícios/Exercícios_Aula-2.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9516ae06a20cd6a5",
+  "active": "eca58cbc37121504",
   "lastOpenFiles": [
-    "Algoritimos/Arvore Binária.md",
-    "Notação Big O.md",
-    "LeetCode.md",
+    "CC50 course/Aulas/Aula-2_Arrays.md",
+    "CC50 course/Exercícios/Exercícios_Aula-2.md",
     "Imagens/Pasted image 20220829122458.jpg",
+    "LeetCode.md",
+    "Notas.md",
+    "2022-09-01.md",
+    "Algoritimos/Arvore Binária.md",
     "LINQ.md",
     "Framework.md",
-    "Design Patterns.md",
-    "Linguagens/CSharp.md",
-    "Algoritimos/Pesquisa binária.md",
-    "Algoritimos/Wave Function Collapse.md"
+    "Notação Big O.md"
   ]
 }
