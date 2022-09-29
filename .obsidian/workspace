@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "eca58cbc37121504",
+        "id": "befbcd7a838019b2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CC50 course/Exercícios/Exercícios_Aula-2.md",
+            "file": "CC50 course/Aulas/Aula-9_Flask.md",
             "mode": "preview",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CC50 course/Exercícios/Exercícios_Aula-2.md",
+                "file": "CC50 course/Aulas/Aula-9_Flask.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CC50 course/Exercícios/Exercícios_Aula-2.md",
+                "file": "CC50 course/Aulas/Aula-9_Flask.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CC50 course/Exercícios/Exercícios_Aula-2.md"
+                "file": "CC50 course/Aulas/Aula-9_Flask.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eca58cbc37121504",
+  "active": "befbcd7a838019b2",
   "lastOpenFiles": [
+    "CC50 course/Aulas/Aula-4_Memória.md",
     "CC50 course/Aulas/Aula-2_Arrays.md",
-    "CC50 course/Exercícios/Exercícios_Aula-2.md",
-    "Imagens/Pasted image 20220829122458.jpg",
-    "LeetCode.md",
-    "Notas.md",
-    "2022-09-01.md",
-    "Algoritimos/Arvore Binária.md",
-    "LINQ.md",
-    "Framework.md",
-    "Notação Big O.md"
+    "CC50 course/Aulas/Aula-7_SQL.md",
+    "Programação.md",
+    "CC50 course/Aulas/Aula-9_Flask.md",
+    "CC50 course/Aulas/Aula-8_HTML, CSS, Javascript.md",
+    "CC50 course/Aulas/Aula-6_Python.md",
+    "CC50 course/Aulas/Aula-3_Algorítimos.md",
+    "CC50 course/Aulas/Aula-5_EstruturaDeDados.md",
+    "CC50 course/Exercícios/Exercícios_Aula-4.md"
   ]
 }

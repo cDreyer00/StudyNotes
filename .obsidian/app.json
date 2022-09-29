@@ -9,5 +9,6 @@
   "spellcheck": false,
   "legacyEditor": false,
   "vimMode": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current"
 }

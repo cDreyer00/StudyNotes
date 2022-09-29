@@ -2,7 +2,7 @@
 
 Nesta aula vamos falar sobre compilação, como encontrar e resolver bugs (debugar o código) e memória. Neste módulo, você também vai ver sobre arrays (vetores), caracteres e strings. Para finalizar a aula, você vai aprender sobre linhas de comando e argumentos e algumas aplicações
 
-**[VIDEO AULA](https://www.youtube.com/watch?v=yvAVgpKW6tY&t=5690s&ab_channel=Funda%C3%A7%C3%A3oEstudar)**
+**[VIDEO AULA](https://youtu.be/yvAVgpKW6tY)**
 
 
 -   Compilação (compilando o código)
