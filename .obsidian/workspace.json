@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "4abc98aba7c495c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcece514a7004fbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b877bc944d02794",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algoritimos/Pesquisa binária.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2ab13ed9c751b78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segurança Cibernética/Segurança Cibernética.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b79bbeb1c8c48a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps & Agile Culture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dce032207d5448a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bcd9dfce67c79f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de431f299886bae0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e46207137dd0b9e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "62e3efb3858ecfba",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "559a62667434aa71",
+    "type": "split",
+    "children": [
+      {
+        "id": "d530edcdd51b4ba9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b64f8eae8408c169",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DevOps & Agile Culture.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b3895b37124dfbb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DevOps & Agile Culture.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "68138a3b49c2f75c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "09b349ef3d9d2621",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DevOps & Agile Culture.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "6b79bbeb1c8c48a6",
+  "lastOpenFiles": [
+    "Segurança Cibernética/Untitled.md",
+    "Segurança Cibernética/Segurança Cibernética.md",
+    "Linguagens/CSharp.md",
+    "Linguagens/C.md",
+    "Algoritimos/Pesquisa binária.md",
+    "CC50 course/Aulas/Aula-9_Flask.md",
+    "CC50 course/Aulas/Aula-4_Memória.md",
+    "CC50 course/Aulas/Aula-2_Arrays.md",
+    "CC50 course/Aulas/Aula-7_SQL.md",
+    "Programação.md"
+  ]
+}

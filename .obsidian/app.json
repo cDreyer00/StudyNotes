@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "defaultViewMode": "preview",
-  "livePreview": false,
+  "livePreview": true,
   "showLineNumber": false,
   "showIndentGuide": true,
   "lineWrap": true,
@@ -10,5 +10,8 @@
   "legacyEditor": false,
   "vimMode": false,
   "alwaysUpdateLinks": true,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "showFrontmatter": true,
+  "readableLineLength": true,
+  "strictLineBreaks": true
 }
