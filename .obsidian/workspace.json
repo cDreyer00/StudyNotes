@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8c417d57662bef79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend/Backend in Web.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps & Agile Culture.md",
+                "file": "Backend/Backend in Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps & Agile Culture.md",
+                "file": "Backend/Backend in Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps & Agile Culture.md"
+                "file": "Backend/Backend in Web.md"
               }
             }
           }
@@ -164,8 +176,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6b79bbeb1c8c48a6",
+  "active": "8c417d57662bef79",
   "lastOpenFiles": [
+    "DevOps & Agile Culture.md",
     "Segurança Cibernética/Untitled.md",
     "Segurança Cibernética/Segurança Cibernética.md",
     "Linguagens/CSharp.md",
@@ -174,7 +187,6 @@
     "CC50 course/Aulas/Aula-9_Flask.md",
     "CC50 course/Aulas/Aula-4_Memória.md",
     "CC50 course/Aulas/Aula-2_Arrays.md",
-    "CC50 course/Aulas/Aula-7_SQL.md",
-    "Programação.md"
+    "CC50 course/Aulas/Aula-7_SQL.md"
   ]
 }
